@@ -3,6 +3,7 @@
 Answers to the questions and test cases are in the PDF document
 
 Task 1
+
 This Python function is a optimization of an already created code. This function (find_prime_factors) returns all the prime factors of a interger "n". My function handles the even numbers first and then the odd numbers.
 
 
