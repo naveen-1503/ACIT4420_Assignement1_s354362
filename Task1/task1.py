@@ -18,4 +18,9 @@ def find_prime_factors(n):
     return prime_factors
 
 
-print(find_prime_factors(1500000))
+print(f'The prime factors of 5 is: {find_prime_factors(5)}')
+print(f'The prime factors of 8 is: {find_prime_factors(8)}')
+print(f'The prime factors of 999 is: {find_prime_factors(999)}')
+print(f'The prime factors of 150000 is: {find_prime_factors(150000)}')
+
+#Result in PDF file
